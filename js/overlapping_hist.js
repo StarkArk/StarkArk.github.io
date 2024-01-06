@@ -51,7 +51,7 @@ function overlapHist(year) {
                         legend: { title: '' },
                         title: `Monthly Release Totals in ${year}`,
                         height: 400,
-                        width: 400,
+                        width: 550,
                         barmode: "overlay" };
 
                     Plotly.newPlot("myHistReleases", data, layout);

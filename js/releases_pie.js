@@ -38,7 +38,7 @@ function releases(year) {
                         // height: 500,
                         // width: 600,
                         height: 400,
-                        width: 400,
+                        width: 550,
                         // 
                         domain: {
                             x: [0.6, 0.9]
