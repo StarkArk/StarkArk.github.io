@@ -61,7 +61,7 @@ function stackedBar(year) {
             // hovermode: 'closest',
             // template: 'plotly_white',
             barmode: 'stack', // Stacked bar chart
-            height: 400,
+            height: 300,
             width: 1200
           };
 
