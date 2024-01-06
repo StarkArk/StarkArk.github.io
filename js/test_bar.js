@@ -38,10 +38,11 @@ function stackedBar(year) {
             x: data2023.map(entry => entry.Month).reverse(),
             y: data2023.map(entry => entry.cumulativeGross).reverse(),
             mode: 'lines',
-            name: 'seagreen',
+            // name: 'seagreen',
             opacity: 0.8,
             line: {
               // color: 'rgb(245, 179, 66)',
+              color: '#f28500',
               width: 6,
               opacity: .1
             },
