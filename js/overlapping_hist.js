@@ -50,8 +50,8 @@ function overlapHist(year) {
                         yaxis: { title: 'Frequency' },
                         legend: { title: '' },
                         title: `Monthly Release Totals in ${year}`,
-                        height: 400,
-                        width: 550,
+                        // height: 400,
+                        // width: 600,
                         barmode: "overlay" };
 
                     Plotly.newPlot("myHistReleases", data, layout);
