@@ -50,7 +50,7 @@ function overlapHist(year) {
                         yaxis: { title: 'Frequency' },
                         legend: { title: '' },
                         title: `Monthly Release Totals in ${year}`,
-                        height: 500,
+                        // height: 500,
                         xanchor: 'center',
                         // yanchor: 'middle'
                         // width: 600,

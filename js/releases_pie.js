@@ -35,7 +35,7 @@ function releases(year) {
                         
                         legend: { title: '' },
                         title: `Non-Holiday vs Holiday Releases in ${year}`,
-                        // height: 500,
+                        // height: 300,
                         // width: 600,
                         // height: 400,
                         // width: 550,
